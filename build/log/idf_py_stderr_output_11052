@@ -1,0 +1,11 @@
+CMake Warning at C:/Espressif/frameworks/esp-idf-v5.3.1/tools/cmake/idf.cmake:18 (message):
+  IDF_PATH environment variable is different from inferred IDF_PATH.
+
+                              Check if your project's top-level CMakeLists.txt includes the right
+                              CMake files. Environment IDF_PATH will be used for the build:
+                              C:/Users/James/esp/v5.3/esp-idf
+Call Stack (most recent call first):
+  C:/Espressif/frameworks/esp-idf-v5.3.1/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
