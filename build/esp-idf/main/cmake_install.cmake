@@ -1,4 +1,4 @@
-# Install script for directory: F:/MIC_TO_EAR_V1/main
+# Install script for directory: D:/MIC_TO_EAR/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

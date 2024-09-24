@@ -16,7 +16,7 @@
 #define SAMPLE_BITS     (32)
 #define DMA_BUF_LEN     (64)
 #define DMA_NUM_BUF     (2)
-#define GAIN_FACTOR 4.0f  // Adjust this value to change the gain
+#define GAIN_FACTOR 2.0f  // Adjust this value to change the gain
 
 static const char* TAG = "AUDIO_PASSTHROUGH";
 

@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "F:/MIC_TO_EAR_V1/build/CMakeFiles/bootloader"
+			"file" : "D:/MIC_TO_EAR/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "F:/MIC_TO_EAR_V1/build/CMakeFiles/bootloader.rule"
+			"file" : "D:/MIC_TO_EAR/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "F:/MIC_TO_EAR_V1/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "D:/MIC_TO_EAR/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "F:/MIC_TO_EAR_V1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "D:/MIC_TO_EAR/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "F:/MIC_TO_EAR_V1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "D:/MIC_TO_EAR/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "F:/MIC_TO_EAR_V1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "D:/MIC_TO_EAR/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "F:/MIC_TO_EAR_V1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "D:/MIC_TO_EAR/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "F:/MIC_TO_EAR_V1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "D:/MIC_TO_EAR/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "F:/MIC_TO_EAR_V1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "D:/MIC_TO_EAR/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "F:/MIC_TO_EAR_V1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "D:/MIC_TO_EAR/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 

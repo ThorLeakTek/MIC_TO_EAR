@@ -1,6 +1,6 @@
 /* Automatically generated file; DO NOT EDIT */
 /* Espressif IoT Development Framework Linker Script */
-/* Generated from: F:\MIC_TO_EAR_V1\build\esp-idf\esp_system\ld\sections.ld.in */
+/* Generated from: D:\MIC_TO_EAR\build\esp-idf\esp_system\ld\sections.ld.in */
 
 /*
 

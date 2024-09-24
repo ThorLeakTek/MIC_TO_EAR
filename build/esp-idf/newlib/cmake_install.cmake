@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("F:/MIC_TO_EAR_V1/build/esp-idf/newlib/port/cmake_install.cmake")
+  include("D:/MIC_TO_EAR/build/esp-idf/newlib/port/cmake_install.cmake")
 endif()
 

@@ -1,4 +1,4 @@
-# Install script for directory: F:/MIC_TO_EAR_V1/managed_components/espressif__esp-dsp
+# Install script for directory: D:/MIC_TO_EAR/managed_components/espressif__esp-dsp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

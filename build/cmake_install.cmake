@@ -1,4 +1,4 @@
-# Install script for directory: F:/MIC_TO_EAR_V1
+# Install script for directory: D:/MIC_TO_EAR
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("F:/MIC_TO_EAR_V1/build/esp-idf/cmake_install.cmake")
+  include("D:/MIC_TO_EAR/build/esp-idf/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "F:/MIC_TO_EAR_V1/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/MIC_TO_EAR/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
